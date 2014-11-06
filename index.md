@@ -46,6 +46,14 @@ OKRs: Objectives and Key Results
   * Make OKRs part of your DNA - but also adapt them to suit your culture
   * Don't tie OKRs to bonuses, or performance reviews
 
+[http://blog.pusher.com/okrs-implementation-challenges/](http://blog.pusher.com/okrs-implementation-challenges/)
+
+[http://blog.pusher.com/make-okrs-work/](http://blog.pusher.com/make-okrs-work/)
+
+[http://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/](http://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/)
+
+  * Must read 3 part blog post about how Pusher implemented OKRs at their company
+
 ### Customizing OKRs
 
 [http://blog.upstart.com/okrs-and-projects-how-we-set-goals-at-upstart/](http://blog.upstart.com/okrs-and-projects-how-we-set-goals-at-upstart/)
