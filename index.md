@@ -7,14 +7,6 @@ permalink: /
 
 OKRs: Objectives and Key Results
 
-### Tools
-
-[https://www.betterworks.com/](https://goo.gl/spkZVj)
-
- * [BetterWorks](https://goo.gl/ZqkUHu) is an excellent software system for implementing and tracking OKRs.
- * If you have the budget to use a software system for OKRs, it's definitely a good idea.
- * BetterWorks has a 250 seat minimum.
-
 ### Basics
 
 [https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs)
